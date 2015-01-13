@@ -1,0 +1,28 @@
+{
+  "name": "shifu",
+  "version": "1.0.0",
+  "description": "Utility package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sylvainv/shifu.git"
+  },
+  "keywords": [
+    "utils",
+    "utility",
+    "utilities"
+  ],
+  "author": "sylvainv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sylvainv/shifu/issues"
+  },
+  "homepage": "https://github.com/sylvainv/shifu",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
