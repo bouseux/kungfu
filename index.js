@@ -23,9 +23,8 @@
 */
 "use strict";
 
-
 var lib = {
-  object: require('./lib/object');
-}
+  object: require('./lib/object')
+};
 
 module.exports = lib;
