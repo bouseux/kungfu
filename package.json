@@ -1,5 +1,5 @@
 {
-  "name": "shifu",
+  "name": "kungfu",
   "version": "1.0.0",
   "description": "Utility package",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sylvainv/shifu.git"
+    "url": "git@github.com:sylvainv/kungfu.git"
   },
   "keywords": [
     "utils",
@@ -18,9 +18,9 @@
   "author": "sylvainv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sylvainv/shifu/issues"
+    "url": "https://github.com/sylvainv/kungfu/issues"
   },
-  "homepage": "https://github.com/sylvainv/shifu",
+  "homepage": "https://github.com/sylvainv/kungfu",
   "dependencies": {
     "chai": "^1.10.0",
     "mocha": "^2.1.0"
