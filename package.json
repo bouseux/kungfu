@@ -21,7 +21,7 @@
     "url": "https://github.com/sylvainv/kungfu/issues"
   },
   "homepage": "https://github.com/sylvainv/kungfu",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^1.10.0",
     "mocha": "^2.1.0"
   }
